@@ -8,7 +8,7 @@ Installation instructions
 Usage instructions
 
 ## Changelog
-## vX.Y.Z:
+### vX.Y.Z:
 One-sentence summary
     
     New Features: 
